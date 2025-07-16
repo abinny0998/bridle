@@ -4,18 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Water
-  - Ground
-  - Trap
-  - Brigde
-  - Pallet
-  - MainCanvas
-  - StrangerProfile
-  - FxTemporaire
-  - Effects
-  - Icon
-  - BlockRotateCamera
-  - Jewel
+  - SpawnedObstacle
+  - CheckGate
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -23,9 +14,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ghost
+  - Normal
+  - Obstacle
   - 
   - 
   - 
@@ -52,9 +43,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Effect
-    uniqueID: 648052919
     locked: 0
   m_RenderingLayers:
   - Default

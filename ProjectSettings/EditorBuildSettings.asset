@@ -5,15 +5,23 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/DenkKits/GameTemplate/Scenes/Entry.unity
-    guid: 3458a194b18889a45be5e69eeb96a741
+    path: Assets/WorkSpace/Scenes/MakeUI.unity
+    guid: 2439c134d337c5343b5f9e7920f5b22b
   - enabled: 1
-    path: Assets/DenkKits/GameTemplate/Scenes/Main.unity
-    guid: 011c70790009ab2428f29822ca6e2bc1
+    path: Assets/WorkSpace/Scenes/Level1.unity
+    guid: 6dc2cb5758a12af4d9ed004e0a082935
   - enabled: 1
-    path: Assets/DenkKits/GameTemplate/Scenes/Game.unity
-    guid: 9f9949a18b2f3364ca6405b740c585ec
+    path: Assets/WorkSpace/Scenes/Level2.unity
+    guid: 93f5bb600bdc7194490c406cdb08bd1f
+  - enabled: 1
+    path: Assets/WorkSpace/Scenes/Level3.unity
+    guid: 731e6b5fff7a9df42aba6d5d87b704fb
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 53778930f9d453c4b98fc25b861a4490, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 518dc1f7310d44b49b22ed5b570c27d5, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
