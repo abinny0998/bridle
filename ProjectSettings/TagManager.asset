@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - SpawnedObstacle
-  - CheckGate
-  - Item
+  - Tile
+  - Obstacle
+  - TileMapLevel
+  - SpawnPoint1
+  - SpawnPoint2
   layers:
   - Default
   - TransparentFX
@@ -14,12 +16,12 @@ TagManager:
   - 
   - Water
   - UI
-  - Ghost
-  - Normal
-  - Obstacle
-  - 
-  - 
-  - 
+  - Wall
+  - Ground
+  - IceGround
+  - Gate
+  - Teleport
+  - PP
   - 
   - 
   - 
